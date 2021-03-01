@@ -1,4 +1,4 @@
-module ADD(
+module ADD  (
 	Y,
 	A,
 	B,
